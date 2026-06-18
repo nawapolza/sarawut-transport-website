@@ -1,0 +1,9 @@
+<svg width="180" height="60" viewBox="0 0 180 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="176" height="56" rx="14" fill="#0B1B32" stroke="#D70000" stroke-width="4"/>
+  <path d="M22 39h78c7 0 12-6 12-12V18H55c-15 0-28 8-33 21Z" fill="#E31B23"/>
+  <path d="M48 24h26l10 12H38l10-12Z" fill="#FFFFFF" opacity=".95"/>
+  <circle cx="44" cy="42" r="7" fill="#0B1B32" stroke="#fff" stroke-width="3"/>
+  <circle cx="96" cy="42" r="7" fill="#0B1B32" stroke="#fff" stroke-width="3"/>
+  <text x="120" y="28" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#fff">SWT</text>
+  <text x="120" y="45" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFD166">2023</text>
+</svg>
