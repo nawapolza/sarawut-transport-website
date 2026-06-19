@@ -1,8 +1,14 @@
 {
   "name": "sarawut-transport-website",
+<<<<<<< HEAD
   "version": "3.9.0",
   "private": true,
   "description": "Mobile-first Thai professional React + Node.js company website with admin panel, secure upload and Render-ready deployment for Sarawut Transport 2023 Co., Ltd.",
+=======
+  "version": "3.8.0",
+  "private": true,
+  "description": "Mobile-polished React + Node.js company website with professional responsive navigation, admin panel and image upload.",
+>>>>>>> 47fc5ab95126156e0123447cc59e8c843e36db5b
   "scripts": {
     "install:all": "npm install --prefix server && npm install --prefix client",
     "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",

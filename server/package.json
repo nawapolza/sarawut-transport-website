@@ -1,6 +1,10 @@
 {
   "name": "sarawut-transport-server",
+<<<<<<< HEAD
   "version": "1.3.0",
+=======
+  "version": "1.1.0",
+>>>>>>> 47fc5ab95126156e0123447cc59e8c843e36db5b
   "private": true,
   "type": "module",
   "main": "index.js",
@@ -17,6 +21,11 @@
     "helmet": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.0",
+<<<<<<< HEAD
     "multer": "^2.0.2"
+=======
+    "multer": "^2.0.2",
+    "sarawut-transport-website": "file:.."
+>>>>>>> 47fc5ab95126156e0123447cc59e8c843e36db5b
   }
 }
